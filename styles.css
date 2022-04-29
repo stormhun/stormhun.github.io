@@ -1,7 +1,7 @@
 .hearts {
-    border: 30px solid pink;
-    border-image-source: url(https://stormhun.github.io/resized-image-Promo.jpeg); 
-    border-image-slice: 20 22;
+    border: 20px solid pink;
+    border-image-source: url(https://stormhun.github.io/output-onlinepngtools.png); 
+    border-image-slice: 30 30;
     border-image-repeat: round;
   }
   
